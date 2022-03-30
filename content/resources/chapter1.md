@@ -5,6 +5,7 @@ description: This resource provides table of contents for lecture files and prov
   laser essentials, history and laser materials.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-977-ultrafast-optics-spring-2005/42eed9876e49d4dd6ca1464ac3dc8116_chapter1.pdf
 file_type: application/pdf
+parent_uid: 94257d6e-6c18-3e08-520f-3e10f58578c7
 resourcetype: Document
 title: chapter1.pdf
 uid: 42eed987-6e49-d4dd-6ca1-464ac3dc8116

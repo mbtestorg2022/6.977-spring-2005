@@ -5,6 +5,7 @@ description: This resource is a problem set 6 on ultrafast optics and covers 2 p
   analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-977-ultrafast-optics-spring-2005/951bfea5542503619bafd45afa5bd897_ps6.pdf
 file_type: application/pdf
+parent_uid: 9845fe29-0d78-c2f9-1bd9-ec6c610c7a0e
 resourcetype: Document
 title: ps6.pdf
 uid: 951bfea5-5425-0361-9baf-d45afa5bd897

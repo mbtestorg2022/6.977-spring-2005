@@ -8,6 +8,7 @@ description: This resource provides information on generation and characterizati
   relaxation oscillation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-977-ultrafast-optics-spring-2005/fbe6c0d65e6202d1d0d4f77a0a481109_rate_relaxation.pdf
 file_type: application/pdf
+parent_uid: 94257d6e-6c18-3e08-520f-3e10f58578c7
 resourcetype: Document
 title: rate_relaxation.pdf
 uid: fbe6c0d6-5e62-02d1-d0d4-f77a0a481109

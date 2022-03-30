@@ -5,6 +5,7 @@ description: This resource is a problem set 4 on ultrafast optics and covers 2 p
   four-level laser.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-977-ultrafast-optics-spring-2005/db45116cd9bd2d689b6a82977e042925_ps4.pdf
 file_type: application/pdf
+parent_uid: 9845fe29-0d78-c2f9-1bd9-ec6c610c7a0e
 resourcetype: Document
 title: ps4.pdf
 uid: db45116c-d9bd-2d68-9b6a-82977e042925
